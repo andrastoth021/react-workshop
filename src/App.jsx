@@ -5,7 +5,6 @@ import Dice from "./components/Dice";
 function App() {
   return (
     <div>
-      <p>Hello from the App!</p>
       <Dice number={3}/>
     </div>
   );
