@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 function Dice(props) {
   const number = props.number;
@@ -7,4 +7,4 @@ function Dice(props) {
   )
 }
 
-export default Dice
+export default Dice;
